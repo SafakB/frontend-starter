@@ -1,0 +1,13 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    color: #262626;
+}
+
+* {
+    /* font-family: 'Poppins', sans-serif; */
+    letter-spacing: 0.20px;
+}
