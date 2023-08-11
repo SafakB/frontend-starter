@@ -8,7 +8,11 @@
 
 @media (max-width: 767px) {}
 
-@media (max-width: 575px) {}
+@media (max-width: 575px) {
+    i {
+        font-size: 28px;
+    }
+}
 
 @media (max-width: 479px) {}
 
