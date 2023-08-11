@@ -5,13 +5,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Basic Front End Template</title>
-    <link rel="stylesheet" type="text/css" href="assets/front/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="assets/front/fontawesome/css/basic.min.css">
-    <link rel="stylesheet" type="text/css" href="assets/front/css/owl.carousel.min.css">
-    <link rel="stylesheet" type="text/css" href="assets/front/css/owl.theme.default.min.css">
-    <link rel="stylesheet" type="text/css" href="assets/front/css/swiper-bundle.min.css">
-    <link rel="stylesheet" type="text/css" href="assets/front/css/jquery.fancybox.min.css">
-    <link rel="stylesheet" type="text/css" href="assets/front/css/animate.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/front/plugins/bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/front/plugins/fontawesome/css/basic.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/front/plugins/owl/owl.carousel.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/front/plugins/owl/owl.theme.default.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/front/plugins/swiper/swiper-bundle.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/front/plugins/fancybox/jquery.fancybox.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/front/plugins/animate/animate.min.css">
     <link rel="stylesheet" type="text/css" href="assets/front/css/style.css">
 
 </head>
@@ -253,70 +253,12 @@
 
 
     <script src="assets/front/js/jquery-3.7.0.min.js"></script>
-    <script src="assets/front/js/bootstrap.min.js"></script>
-    <script src="assets/front/js/owl.carousel.min.js"></script>
-    <script src="assets/front/js/swiper-bundle.min.js"></script>
-    <script src="assets/front/js/jquery.fancybox.min.js"></script>
-    <script src="assets/front/js/wow.min.js"></script>
+    <script src="assets/front/plugins/bootstrap/bootstrap.min.js"></script>
+    <script src="assets/front/plugins/owl/owl.carousel.min.js"></script>
+    <script src="assets/front/plugins/swiper/swiper-bundle.min.js"></script>
+    <script src="assets/front/plugins/fancybox/jquery.fancybox.min.js"></script>
+    <script src="assets/front/plugins/wow/wow.min.js"></script>
     <script src="assets/front/js/app.js"></script>
-    <script>
-        new WOW().init();
-        $('.owl-carousel').owlCarousel({
-            loop: true,
-            margin: 10,
-            nav: true,
-            responsive: {
-                0: {
-                    items: 1
-                },
-                600: {
-                    items: 3
-                },
-                1000: {
-                    items: 5
-                }
-            }
-        })
-
-        const swiper = new Swiper('.swiper', {
-            // Optional parameters
-            slidesPerView: 1,
-            direction: 'horizontal',
-            loop: true,
-            //rewind: true,
-
-            breakpoints: {
-                640: {
-                    slidesPerView: 2,
-                    spaceBetween: 20,
-                },
-                768: {
-                    slidesPerView: 4,
-                    spaceBetween: 40,
-                },
-                1024: {
-                    slidesPerView: 5,
-                    spaceBetween: 50,
-                },
-            },
-
-            // If we need pagination
-            pagination: {
-                el: '.swiper-pagination',
-            },
-
-            // Navigation arrows
-            navigation: {
-                nextEl: '.swiper-button-next',
-                prevEl: '.swiper-button-prev',
-            },
-
-            // And if we need scrollbar
-            scrollbar: {
-                el: '.swiper-scrollbar',
-            },
-        });
-    </script>
 </body>
 
 </html>

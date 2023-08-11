@@ -11,9 +11,18 @@ assets/
 └───front/
     │
     ├───css/
+    ├───fonts/
     ├───js/
-    ├───fontawesome/
-    └───images/
+    ├───images/
+    └───plugins/
+        │
+        ├───animate/
+        ├───bootstrap/
+        ├───fancybox/
+        ├───fontawesome/
+        ├───owl/
+        ├───swiper/
+        └───wow/
 index.html
 ```
 
