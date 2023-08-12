@@ -21,6 +21,7 @@ assets/
         ├───fancybox/
         ├───fontawesome/
         ├───owl/
+        ├───sweetalert2/
         ├───swiper/
         └───wow/
 index.html
