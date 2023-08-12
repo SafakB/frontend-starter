@@ -16,6 +16,28 @@ $('.owl-carousel').owlCarousel({
     }
 })
 
+/* #sweetalert click */
+$('#sweetalert').click(function () {
+    Swal.fire({
+        title: 'Are you sure?',
+        text: "You want to delete this file!",
+        icon: 'warning',
+        showCancelButton: true,
+        confirmButtonColor: '#d33',
+        cancelButtonColor: '#3085d6',
+        confirmButtonText: 'Yes, delete it!'
+    }).then((result) => {
+        if (result.isConfirmed) {
+            Swal.fire(
+                'Deleted!',
+                'Your file has been deleted.',
+                'success'
+            )
+        }
+    })
+});
+
+
 const swiper = new Swiper('.swiper', {
     // Optional parameters
     slidesPerView: 1,

@@ -35,6 +35,7 @@ This package comes with several popular third-party libraries and frameworks:
 * [Fancybox 3.5.7](https://fancyapps.com/fancybox/3/)
 * [Owl Carousel v2.3.4](https://owlcarousel2.github.io/OwlCarousel2/)
 * [Swiper JS 10.1.0](https://swiperjs.com/)
+* [SweetAlert2 11.7.22](https://sweetalert2.github.io/)
 * [Fontawesome 6.4.0](https://fontawesome.com/)
 * [Animate.css](https://animate.style/)
 * [Wow.js](https://wowjs.uk/)
