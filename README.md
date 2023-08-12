@@ -32,7 +32,7 @@ index.html
 
 This package comes with several popular third-party libraries and frameworks:
 
-* [Bootstrap 5.0.2](https://getbootstrap.com/)
+* [Bootstrap 5.3.1](https://getbootstrap.com/)
 * [Fancybox 3.5.7](https://fancyapps.com/fancybox/3/)
 * [Owl Carousel v2.3.4](https://owlcarousel2.github.io/OwlCarousel2/)
 * [Swiper JS 10.1.0](https://swiperjs.com/)
