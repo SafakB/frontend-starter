@@ -1,9 +1,9 @@
 /*!
- * Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com
+ * Font Awesome Pro 6.4.2 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license (Commercial License)
- * Copyright 2023 Fonticons, Inc. 
+ * Copyright 2023 Fonticons, Inc.
  */
-.fa {
+ .fa {
     font-family: var(--fa-style-family, "Font Awesome 6 Pro");
     font-weight: var(--fa-style, 900)
 }
@@ -2474,6 +2474,10 @@
     content: "\f593"
 }
 
+.fa-globe-pointer:before {
+    content: "\e60e"
+}
+
 .fa-blanket:before {
     content: "\f498"
 }
@@ -3411,12 +3415,20 @@
     content: "\e318"
 }
 
+.fa-raccoon:before {
+    content: "\e613"
+}
+
 .fa-hand-point-down:before {
     content: "\f0a7"
 }
 
 .fa-arrow-up-from-bracket:before {
     content: "\e09a"
+}
+
+.fa-head-side-gear:before {
+    content: "\e611"
 }
 
 .fa-trash-plus:before {
@@ -3685,6 +3697,10 @@
 
 .fa-tablet-button:before {
     content: "\f10a"
+}
+
+.fa-person-dress-fairy:before {
+    content: "\e607"
 }
 
 .fa-rectangle-history-circle-user:before {
@@ -4268,6 +4284,10 @@
     content: "\f496"
 }
 
+.fa-arrow-up-to-arc:before {
+    content: "\e617"
+}
+
 .fa-star-exclamation:before {
     content: "\f2f3"
 }
@@ -4843,6 +4863,10 @@
     content: "\e199"
 }
 
+.fa-swap-arrows:before {
+    content: "\e60a"
+}
+
 .fa-right-long-to-line:before {
     content: "\e444"
 }
@@ -4986,6 +5010,10 @@
 
 .fa-sunrise:before {
     content: "\f766"
+}
+
+.fa-subtitles:before {
+    content: "\e60f"
 }
 
 .fa-panel-ews:before {
@@ -9929,6 +9957,10 @@
     content: "\4e"
 }
 
+.fa-swap:before {
+    content: "\e609"
+}
+
 .fa-garage:before {
     content: "\e009"
 }
@@ -9989,6 +10021,10 @@
 
 .fa-download:before {
     content: "\f019"
+}
+
+.fa-angles-up-down:before {
+    content: "\e60d"
 }
 
 .fa-inventory:before,
@@ -10834,6 +10870,10 @@
 
 .fa-medal:before {
     content: "\f5a2"
+}
+
+.fa-person-fairy:before {
+    content: "\e608"
 }
 
 .fa-bed:before {
@@ -12156,6 +12196,10 @@
     content: "\f279"
 }
 
+.fa-arrow-left-from-arc:before {
+    content: "\e615"
+}
+
 .fa-file-circle-info:before {
     content: "\e493"
 }
@@ -12339,6 +12383,10 @@
 
 .fa-nose:before {
     content: "\e5bd"
+}
+
+.fa-arrow-left-to-arc:before {
+    content: "\e616"
 }
 
 .fa-chevron-left:before {
@@ -12807,6 +12855,10 @@
     content: "\e48d"
 }
 
+.fa-subtitles-slash:before {
+    content: "\e610"
+}
+
 .fa-qrcode:before {
     content: "\f029"
 }
@@ -13250,6 +13302,10 @@
 .fa-bahai:before,
 .fa-haykal:before {
     content: "\f666"
+}
+
+.fa-lighthouse:before {
+    content: "\e612"
 }
 
 .fa-amp-guitar:before {
@@ -14020,6 +14076,10 @@
     content: "\f7ff"
 }
 
+.fa-arrow-down-from-arc:before {
+    content: "\e614"
+}
+
 .fa-right-left-large:before {
     content: "\e5e1"
 }
@@ -14715,6 +14775,10 @@
     content: "\f282"
 }
 
+.fa-threads:before {
+    content: "\e618"
+}
+
 .fa-napster:before {
     content: "\f3d2"
 }
@@ -14927,6 +14991,10 @@
     content: "\f28a"
 }
 
+.fa-debian:before {
+    content: "\e60b"
+}
+
 .fa-openid:before {
     content: "\f19b"
 }
@@ -15114,6 +15182,10 @@
     content: "\f78d"
 }
 
+.fa-shoelace:before {
+    content: "\e60c"
+}
+
 .fa-mdb:before {
     content: "\f8ca"
 }
@@ -15221,6 +15293,10 @@
 
 .fa-neos:before {
     content: "\f612"
+}
+
+.fa-square-threads:before {
+    content: "\e619"
 }
 
 .fa-hackerrank:before {
@@ -15662,6 +15738,10 @@
 
 .fa-erlang:before {
     content: "\f39d"
+}
+
+.fa-x-twitter:before {
+    content: "\e61b"
 }
 
 .fa-cotton-bureau:before {
@@ -16288,6 +16368,10 @@
     content: "\f2c4"
 }
 
+.fa-square-x-twitter:before {
+    content: "\e61a"
+}
+
 .fa-reacteurope:before {
     content: "\f75d"
 }
@@ -16409,6 +16493,7 @@
     content: "\f3f6"
 }
 
+
 :host,
 :root {
     --fa-font-light: normal 300 1em/1 "Font Awesome 6 Pro"
@@ -16509,6 +16594,7 @@
     font-weight: 300;
     src: url(../fonts/fa-light-300.woff2) format("woff2"), url(../fonts/fa-light-300.ttf) format("truetype")
 }
+
 
 @font-face {
     font-family: "FontAwesome";

@@ -1,7 +1,7 @@
 /*!
- * Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com
+ * Font Awesome Pro 6.4.2 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license (Commercial License)
- * Copyright 2023 Fonticons, Inc. 
+ * Copyright 2023 Fonticons, Inc.
  */
 .fa {
     font-family: var(--fa-style-family, "Font Awesome 6 Pro");
@@ -2474,6 +2474,10 @@
     content: "\f593"
 }
 
+.fa-globe-pointer:before {
+    content: "\e60e"
+}
+
 .fa-blanket:before {
     content: "\f498"
 }
@@ -3411,12 +3415,20 @@
     content: "\e318"
 }
 
+.fa-raccoon:before {
+    content: "\e613"
+}
+
 .fa-hand-point-down:before {
     content: "\f0a7"
 }
 
 .fa-arrow-up-from-bracket:before {
     content: "\e09a"
+}
+
+.fa-head-side-gear:before {
+    content: "\e611"
 }
 
 .fa-trash-plus:before {
@@ -3685,6 +3697,10 @@
 
 .fa-tablet-button:before {
     content: "\f10a"
+}
+
+.fa-person-dress-fairy:before {
+    content: "\e607"
 }
 
 .fa-rectangle-history-circle-user:before {
@@ -4268,6 +4284,10 @@
     content: "\f496"
 }
 
+.fa-arrow-up-to-arc:before {
+    content: "\e617"
+}
+
 .fa-star-exclamation:before {
     content: "\f2f3"
 }
@@ -4843,6 +4863,10 @@
     content: "\e199"
 }
 
+.fa-swap-arrows:before {
+    content: "\e60a"
+}
+
 .fa-right-long-to-line:before {
     content: "\e444"
 }
@@ -4986,6 +5010,10 @@
 
 .fa-sunrise:before {
     content: "\f766"
+}
+
+.fa-subtitles:before {
+    content: "\e60f"
 }
 
 .fa-panel-ews:before {
@@ -9929,6 +9957,10 @@
     content: "\4e"
 }
 
+.fa-swap:before {
+    content: "\e609"
+}
+
 .fa-garage:before {
     content: "\e009"
 }
@@ -9989,6 +10021,10 @@
 
 .fa-download:before {
     content: "\f019"
+}
+
+.fa-angles-up-down:before {
+    content: "\e60d"
 }
 
 .fa-inventory:before,
@@ -10834,6 +10870,10 @@
 
 .fa-medal:before {
     content: "\f5a2"
+}
+
+.fa-person-fairy:before {
+    content: "\e608"
 }
 
 .fa-bed:before {
@@ -12156,6 +12196,10 @@
     content: "\f279"
 }
 
+.fa-arrow-left-from-arc:before {
+    content: "\e615"
+}
+
 .fa-file-circle-info:before {
     content: "\e493"
 }
@@ -12339,6 +12383,10 @@
 
 .fa-nose:before {
     content: "\e5bd"
+}
+
+.fa-arrow-left-to-arc:before {
+    content: "\e616"
 }
 
 .fa-chevron-left:before {
@@ -12807,6 +12855,10 @@
     content: "\e48d"
 }
 
+.fa-subtitles-slash:before {
+    content: "\e610"
+}
+
 .fa-qrcode:before {
     content: "\f029"
 }
@@ -13250,6 +13302,10 @@
 .fa-bahai:before,
 .fa-haykal:before {
     content: "\f666"
+}
+
+.fa-lighthouse:before {
+    content: "\e612"
 }
 
 .fa-amp-guitar:before {
@@ -14020,6 +14076,10 @@
     content: "\f7ff"
 }
 
+.fa-arrow-down-from-arc:before {
+    content: "\e614"
+}
+
 .fa-right-left-large:before {
     content: "\e5e1"
 }
@@ -14715,6 +14775,10 @@
     content: "\f282"
 }
 
+.fa-threads:before {
+    content: "\e618"
+}
+
 .fa-napster:before {
     content: "\f3d2"
 }
@@ -14927,6 +14991,10 @@
     content: "\f28a"
 }
 
+.fa-debian:before {
+    content: "\e60b"
+}
+
 .fa-openid:before {
     content: "\f19b"
 }
@@ -15114,6 +15182,10 @@
     content: "\f78d"
 }
 
+.fa-shoelace:before {
+    content: "\e60c"
+}
+
 .fa-mdb:before {
     content: "\f8ca"
 }
@@ -15221,6 +15293,10 @@
 
 .fa-neos:before {
     content: "\f612"
+}
+
+.fa-square-threads:before {
+    content: "\e619"
 }
 
 .fa-hackerrank:before {
@@ -15662,6 +15738,10 @@
 
 .fa-erlang:before {
     content: "\f39d"
+}
+
+.fa-x-twitter:before {
+    content: "\e61b"
 }
 
 .fa-cotton-bureau:before {
@@ -16286,6 +16366,10 @@
 
 .fa-quora:before {
     content: "\f2c4"
+}
+
+.fa-square-x-twitter:before {
+    content: "\e61a"
 }
 
 .fa-reacteurope:before {
@@ -18805,6 +18889,11 @@
     content: "\f593\f593"
 }
 
+.fa-duotone.fa-globe-pointer:after,
+.fad.fa-globe-pointer:after {
+    content: "\e60e\e60e"
+}
+
 .fa-duotone.fa-blanket:after,
 .fad.fa-blanket:after {
     content: "\f498\f498"
@@ -20022,6 +20111,11 @@
     content: "\e318\e318"
 }
 
+.fa-duotone.fa-raccoon:after,
+.fad.fa-raccoon:after {
+    content: "\e613\e613"
+}
+
 .fa-duotone.fa-hand-point-down:after,
 .fad.fa-hand-point-down:after {
     content: "\f0a7\f0a7"
@@ -20030,6 +20124,11 @@
 .fa-duotone.fa-arrow-up-from-bracket:after,
 .fad.fa-arrow-up-from-bracket:after {
     content: "\e09a\e09a"
+}
+
+.fa-duotone.fa-head-side-gear:after,
+.fad.fa-head-side-gear:after {
+    content: "\e611\e611"
 }
 
 .fa-duotone.fa-trash-plus:after,
@@ -20377,6 +20476,11 @@
 .fa-duotone.fa-tablet-button:after,
 .fad.fa-tablet-button:after {
     content: "\f10a\f10a"
+}
+
+.fa-duotone.fa-person-dress-fairy:after,
+.fad.fa-person-dress-fairy:after {
+    content: "\e607\e607"
 }
 
 .fa-duotone.fa-rectangle-history-circle-user:after,
@@ -21133,6 +21237,11 @@
     content: "\f496\f496"
 }
 
+.fa-duotone.fa-arrow-up-to-arc:after,
+.fad.fa-arrow-up-to-arc:after {
+    content: "\e617\e617"
+}
+
 .fa-duotone.fa-star-exclamation:after,
 .fad.fa-star-exclamation:after {
     content: "\f2f3\f2f3"
@@ -21884,6 +21993,11 @@
     content: "\e199\e199"
 }
 
+.fa-duotone.fa-swap-arrows:after,
+.fad.fa-swap-arrows:after {
+    content: "\e60a\e60a"
+}
+
 .fa-duotone.fa-right-long-to-line:after,
 .fad.fa-right-long-to-line:after {
     content: "\e444\e444"
@@ -22070,6 +22184,11 @@
 .fa-duotone.fa-sunrise:after,
 .fad.fa-sunrise:after {
     content: "\f766\f766"
+}
+
+.fa-duotone.fa-subtitles:after,
+.fad.fa-subtitles:after {
+    content: "\e60f\e60f"
 }
 
 .fa-duotone.fa-panel-ews:after,
@@ -28507,6 +28626,11 @@
     content: "\4e\4e"
 }
 
+.fa-duotone.fa-swap:after,
+.fad.fa-swap:after {
+    content: "\e609\e609"
+}
+
 .fa-duotone.fa-garage:after,
 .fad.fa-garage:after {
     content: "\e009\e009"
@@ -28584,6 +28708,11 @@
 .fa-duotone.fa-download:after,
 .fad.fa-download:after {
     content: "\f019\f019"
+}
+
+.fa-duotone.fa-angles-up-down:after,
+.fad.fa-angles-up-down:after {
+    content: "\e60d\e60d"
 }
 
 .fa-duotone.fa-inventory:after,
@@ -29695,6 +29824,11 @@
 .fa-duotone.fa-medal:after,
 .fad.fa-medal:after {
     content: "\f5a2\f5a2"
+}
+
+.fa-duotone.fa-person-fairy:after,
+.fad.fa-person-fairy:after {
+    content: "\e608\e608"
 }
 
 .fa-duotone.fa-bed:after,
@@ -31425,6 +31559,11 @@
     content: "\f279\f279"
 }
 
+.fa-duotone.fa-arrow-left-from-arc:after,
+.fad.fa-arrow-left-from-arc:after {
+    content: "\e615\e615"
+}
+
 .fa-duotone.fa-file-circle-info:after,
 .fad.fa-file-circle-info:after {
     content: "\e493\e493"
@@ -31661,6 +31800,11 @@
 .fa-duotone.fa-nose:after,
 .fad.fa-nose:after {
     content: "\e5bd\e5bd"
+}
+
+.fa-duotone.fa-arrow-left-to-arc:after,
+.fad.fa-arrow-left-to-arc:after {
+    content: "\e616\e616"
 }
 
 .fa-duotone.fa-chevron-left:after,
@@ -32268,6 +32412,11 @@
     content: "\e48d\e48d"
 }
 
+.fa-duotone.fa-subtitles-slash:after,
+.fad.fa-subtitles-slash:after {
+    content: "\e610\e610"
+}
+
 .fa-duotone.fa-qrcode:after,
 .fad.fa-qrcode:after {
     content: "\f029\f029"
@@ -32844,6 +32993,11 @@
 .fad.fa-bahai:after,
 .fad.fa-haykal:after {
     content: "\f666\f666"
+}
+
+.fa-duotone.fa-lighthouse:after,
+.fad.fa-lighthouse:after {
+    content: "\e612\e612"
 }
 
 .fa-duotone.fa-amp-guitar:after,
@@ -33852,6 +34006,11 @@
 .fa-duotone.fa-flower:after,
 .fad.fa-flower:after {
     content: "\f7ff\f7ff"
+}
+
+.fa-duotone.fa-arrow-down-from-arc:after,
+.fad.fa-arrow-down-from-arc:after {
+    content: "\e614\e614"
 }
 
 .fa-duotone.fa-right-left-large:after,
